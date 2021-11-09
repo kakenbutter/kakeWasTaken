@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ethanz123
-- 👀 I’m interested in: IDK
+- 👀 I’m interested in: Java and Python
 - 🌱 I’m currently learning: nothing...
 - 💞️ I’m looking to collaborate on: nothing yet!
 - 📫 How to reach me: ethanzhou100@gmail.com
