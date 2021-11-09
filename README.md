@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethanz123
-- 👀 I’m interested in: IDK
-- 🌱 I’m currently learning: nothing...
+- 👀 I’m interested in: things
+- 🌱 I’m currently learning: Java
 - 💞️ I’m looking to collaborate on: nothing yet!
 - 📫 How to reach me: ethanzhou100@gmail.com
 
