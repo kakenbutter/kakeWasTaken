@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethanz123
 - 👀 I’m interested in: C, C++, and Python
-- 🌱 I’m currently learning: C
+- 🌱 I’m currently learning: C & C++
 - 💞️ I’m looking to collaborate on: nothing yet!
 - 📫 How to reach me: ethanzhou100@gmail.com
 
